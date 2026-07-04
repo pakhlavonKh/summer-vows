@@ -14,14 +14,14 @@ import {
   Check,
 } from "lucide-react";
 
-import heroImg from "@/assets/hero-amalfi.jpg";
-import storyImg from "@/assets/story-couple.jpg";
-import g1 from "@/assets/gallery-1.jpg";
-import g2 from "@/assets/gallery-2.jpg";
-import g3 from "@/assets/gallery-3.jpg";
-import g4 from "@/assets/gallery-4.jpg";
-import g5 from "@/assets/gallery-5.jpg";
-import dressImg from "@/assets/dresscode.jpg";
+import heroImg from "@/assets/hero-amalfi.webp";
+import storyImg from "@/assets/story-couple.webp";
+import g1 from "@/assets/gallery-1.webp";
+import g2 from "@/assets/gallery-2.webp";
+import g3 from "@/assets/gallery-3.webp";
+import g4 from "@/assets/gallery-4.webp";
+import g5 from "@/assets/gallery-5.webp";
+import dressImg from "@/assets/dresscode.webp";
 import { OliveBranch, OliveLeaf } from "@/components/OliveBranch";
 
 const WEDDING_DATE = new Date("2026-06-21T16:00:00+02:00");
